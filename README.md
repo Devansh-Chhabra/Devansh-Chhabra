@@ -35,4 +35,4 @@ Building scalable interactive web platforms and decision-support services, while
 ## 📬 Connect
 
 - **LinkedIn:** [Devansh Chhabra](https://www.linkedin.com/in/devansh-chhabra-8b5183284/)
-- **Email:** [YOUR-EMAIL@gmail.com](mailto:dchhabra.work.23@gmail.com)
+- **Email:** [Mail ✉️](mailto:dchhabra.work.23@gmail.com)
